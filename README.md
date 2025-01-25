@@ -17,11 +17,11 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adaptive-ai-labs/noneaway-api.git
+   git clone https://github.com/The-Periwinkle-Project/periwinkle-api.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd noneaway-api
+   cd periwinkle-api
    ```
 3. Install dependencies:
    ```bash
